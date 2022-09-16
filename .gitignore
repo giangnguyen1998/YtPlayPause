@@ -10,7 +10,7 @@
 /.idea/misc.xml
 /.idea/gradle.xml
 /.idea/compiler.xml
-.idea
+.idea/
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
