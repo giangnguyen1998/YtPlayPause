@@ -1,8 +1,8 @@
-package com.github.jack98.playpausesample
+package io.nuce.jack98.playpausesample
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.github.jack98.playpause.PlayPauseImageView
+import io.nuce.jack98.playpause.PlayPauseImageView
 
 class MainActivity : AppCompatActivity() {
    override fun onCreate(savedInstanceState: Bundle?) {

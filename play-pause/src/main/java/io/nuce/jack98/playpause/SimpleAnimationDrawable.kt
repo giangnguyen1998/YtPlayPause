@@ -1,4 +1,4 @@
-package com.github.jack98.playpause
+package io.nuce.jack98.playpause
 
 import android.graphics.drawable.AnimationDrawable
 import android.graphics.drawable.Drawable
