@@ -3,7 +3,6 @@ package io.nuce.jack98.playpause
 import android.content.Context
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatImageView
-import com.github.jack98.playpause.R
 
 enum class PlayPauseState {
    PLAYING,
